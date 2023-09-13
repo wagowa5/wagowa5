@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wagowa5)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagowa5
+)](https://github.com/anuraghazra/github-readme-stats)
